@@ -83,7 +83,7 @@ Every change auto-saves, each expense gets a unique ID, and corrupted data is ha
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/Personal_Expense_Tracker.git
+git clone https://github.com/sanjana-bh/personal_expense_tracker.git
 cd Personal_Expense_Tracker
 
 # 2. Install dependencies
