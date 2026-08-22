@@ -151,7 +151,7 @@ self.categories = [
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
+Built with Python, Streamlit, and Plotly by **Sanjana Bharadwaj**. ✨
 ---
 
 Built as a demonstration of Python programming, data analysis, and UI/UX design — ideal for showcasing skills in a Python development internship or portfolio. 🚀
